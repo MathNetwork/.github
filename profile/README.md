@@ -5,16 +5,14 @@
 **Mathematics is being generated and verified faster than ever.
 We're curious what that changes — how mathematical knowledge is produced, stored, and organized.**
 
-[Website](https://astrolabe.network) · [Discord](https://discord.gg/CvfrT34ra) · [Open Questions](https://events.astrolabe.network/docs/challenge)
+[Website](https://astrolabe.network) · [Discord](https://discord.gg/CvfrT34ra)
 
 </div>
 ---
 
 ## What's happening now
 
-**Riemannian Geometry Challenge** — an open effort to build Riemannian geometry as a living, machine-verified textbook. We work through open problems together, formalize them, and make the results free for anyone to learn from and build on.
-
-Anyone is welcome to take part. Pick up a problem, join a weekly session, or just follow along.
+[**Riemannian Geometry Challenge**](https://events.astrolabe.network/local/edit?path=projects%2Friemannian-geometry) — an open effort to build Riemannian geometry as a living, machine-verified textbook. 
 
 → Join us on [Discord](https://discord.gg/CvfrT34ra). 
 
