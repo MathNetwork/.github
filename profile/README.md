@@ -1,14 +1,9 @@
-<div align="center">
-
 # Astrolabe
 
 **Mathematics is being generated and verified faster than ever.
 We're curious what that changes — how mathematical knowledge is produced, stored, and organized.**
 
 [Website](https://astrolabe.network) · [Discord](https://discord.gg/CvfrT34ra)
-
-</div>
----
 
 ## What's happening now
 
